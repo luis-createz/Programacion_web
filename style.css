@@ -1,0 +1,129 @@
+.Disney{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 20px;
+}
+
+.No-Disney{
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 20px;
+}
+
+.Carta-Disney-Pixar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+}
+
+.Carta-Disney-Pixar-img{
+    height: 25vh;
+    width: 25vw;
+}
+
+.Carta-Disney-Marvel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+}
+
+.Carta-Disney-Marvel-img{
+    height: 25vh;
+    width: 25vw;
+}
+
+.Carta-Disney-LucasFilm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+}
+
+.Carta-Disney-LucasFilm-img{
+    height: 25vh;
+    width: 25vw;
+
+}
+
+.Carta-Disney-Fox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+
+}
+
+.Carta-Disney-Fox-img{
+    height: 25vh;
+    width: 25vw;
+
+}
+
+.Carta-No-Disney-Sony{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+
+.Carta-No-Disney-Sony-img{
+    height: 25vh;
+    width: 25vw;
+
+}
+
+.Carta-No-Disney-DreamWorks{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+
+.Carta-No-Disney-DreamWorks-img{
+    height: 25vh;
+    width: 25vw;
+
+}
+
+.Carta-No-Disney-Paramount{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+
+.Carta-No-Disney-Paramount-img{
+    height: 25vh;
+    width: 25vw;
+
+}
+
+.Carta-No-Disney-Netflix{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+
+.Carta-No-Disney-Netflix-img{
+    height: 25vh;
+    width: 25vw;
+
+}
